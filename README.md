@@ -1,7 +1,6 @@
 # sysDEC
+projekt Android (Java + C++) do systemu *sysDEC*.  
 
-Prosty projekt Android (Java + C++) do systemu *sysDEC*.  
-Nie zawiera jeszcze szczegółowego opisu funkcji — to wersja początkowa.
 
 ## Uruchomienie
 
